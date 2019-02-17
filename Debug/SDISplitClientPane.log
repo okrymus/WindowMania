@@ -1,0 +1,8 @@
+﻿  WindowMania.cpp
+  PaneFormView.cpp
+  PaneEditView.cpp
+\\vmware-host\shared folders\dropbox\public\bhcc\spring 2017\cit284\windowmania\paneeditview.cpp(258): warning C4101: 'info': unreferenced local variable
+  DirectoryOperate.cpp
+  Generating Code...
+  SDISplitClientPane.vcxproj -> \\vmware-host\Shared Folders\Dropbox\Public\BHCC\Spring 2017\CIT284\WindowMania\.\Debug\SDISplitClientPane.exe
+  SDISplitClientPane.vcxproj -> .\Debug/SDISplitClientPane.pdb (Full PDB)
